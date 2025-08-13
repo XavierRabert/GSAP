@@ -51,6 +51,10 @@ body {
   justify-content: center;
 }
 
+.hero-info {
+  text-align: center;
+}
+
 .hero-intro {
   display: grid;
   grid-template-columns: 1fr 3.5fr;
